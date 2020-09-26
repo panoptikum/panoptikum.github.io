@@ -1,1 +1,0 @@
-# panoptikum.github.io

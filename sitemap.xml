@@ -1,175 +1,107 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/categories/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/data-visualization/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/foreign-minister/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/foreign-ministers-background/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/gender/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/military-education/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/political-science/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/posts/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/data-science/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/germany/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/nlp/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/parliament/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/parliament-speeches/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/polarization/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/projects/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/python/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/structural-topic-model/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/text-analysisgerman-state-legislatures/</loc>
     <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/elections/</loc>
     <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/france/</loc>
     <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/politics/</loc>
-    <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/politics/</loc>
     <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/tags/politics/</loc>
+    <lastmod>2017-05-07T10:38:39+00:00</lastmod>
+  </url><url>
     <loc>/tags/power-of-attorney/</loc>
     <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/vote-par-procuration/</loc>
     <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/voting/</loc>
     <lastmod>2017-05-07T10:38:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/dashboard/</loc>
     <lastmod>2017-01-23T15:32:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/guide-for-toulouse/</loc>
     <lastmod>2017-01-23T15:32:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/leaflet/</loc>
     <lastmod>2017-01-23T15:32:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2017-01-23T15:32:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/r/</loc>
     <lastmod>2017-01-23T15:32:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-01-23T15:32:09+00:00</lastmod>
+  </url><url>
     <loc>/tags/shiny/</loc>
     <lastmod>2017-01-23T15:32:09+00:00</lastmod>
   </url>
-  
 </urlset>
